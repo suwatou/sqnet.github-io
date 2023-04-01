@@ -1,0 +1,30 @@
+﻿body{
+    margin: 0 auto;
+    display: block;
+    height: 100vh;
+    background-image: url('https://www.xiaoqia.fun/images/wap.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(5, 5, 5);
+}
+#zt{
+    text-align: center;
+    text-decoration: none;
+    /*color: rgb(177, 9, 211);*/
+    font-size: 80px;
+    background-image:-webkit-linear-gradient(bottom,rgb(15, 15, 15),#0d014e,rgba(4, 72, 92, 0.815)); /*ÕâÀïÊÇ½¥±ä×ÖÌå£¬»ájs¿ÉÒÔ×ÔÐÐ¸ü¸Ä×ÖÌåÑÕÉ«*/
+    -webkit-background-clip:text; 
+    -webkit-text-fill-color:transparent; 
+}
+#zit{
+    text-decoration: none;
+    /*color:rgba(130, 7, 141, 0.658);*/
+    font-family: Sans-serif;
+    background-image:-webkit-linear-gradient(bottom,red,#fd8403,yellow); /*ÕâÀïÍ¬ÉÏÃæÒ»Ñù*/
+    -webkit-background-clip:text; 
+    -webkit-text-fill-color:transparent; 
+}
+.ys{
+    text-decoration: none;
+    color: rgb(201, 47, 47);/*ÕâÀï¸ü¸ÄÑÕÉ«*/
+}

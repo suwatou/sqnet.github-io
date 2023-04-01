@@ -1,0 +1,40 @@
+﻿body{
+    margin: 0 auto;
+    display: block;
+    height: 100vh;
+    background-image: url('../images/001.jpg');/*背景图片如不满意可以自行更改*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(5, 5, 5);
+}
+#zt{
+
+    text-decoration: none;
+    /*color: rgb(177, 9, 211);*/
+    font-size: 80px;
+    background-image:-webkit-linear-gradient(bottom,rgb(15, 15, 15),#0d014e,rgba(4, 71, 92, 0.815)); /*这里是渐变字体，会js可以自行更改字体颜色*/
+    -webkit-background-clip:text; 
+    -webkit-text-fill-color:transparent; 
+    font-family: "\6977\4F53";
+    opacity:1.0;
+    filter:alpha(opacity=100); /* IE8 及更早版本 */
+}
+#zit{
+    text-decoration: none;
+    /*color:rgba(130, 7, 141, 0.658);*/
+    font-family: Sans-serif;
+    background-image:-webkit-linear-gradient(bottom,rgb(233, 230, 230),#f7f1f1,rgb(233, 229, 229)); /*这里同上面一样*/
+    -webkit-background-clip:text; 
+    -webkit-text-fill-color:transparent; 
+}
+.ys{
+    text-decoration: none;
+    color: rgb(201, 47, 47);/*这里更改颜色*/
+}
+#jz{
+    text-align: center;
+}
+.zada{
+    font-family: "\5B8B\4F53","\6977\4F53";
+    font-size: 18px;
+}
