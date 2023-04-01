@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="viggo" />
+    <title>关于神奇网站在哪里-Where is the magic site</title>
+    <meta name="keywords" content="神奇网站在哪里-Where is the magic site">
+    <meta name="description" content="">
+    <link rel="shortcut icon" href="../assets/images/btlogo.jpg">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic">
+    <link rel="stylesheet" href="../assets/css/fonts/linecons/css/linecons.css">
+    <link rel="stylesheet" href="../assets/css/fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.css">
+    <link rel="stylesheet" href="../assets/css/xenon-core.css">
+    <link rel="stylesheet" href="../assets/css/xenon-components.css">
+    <link rel="stylesheet" href="../assets/css/xenon-skins.css">
+    <link rel="stylesheet" href="../assets/css/nav.css">
+    <script src="../assets/js/jquery-1.11.1.min.js"></script>
+    
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?c05bb16ea908292af9f6c513087a1cc3";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- / FB Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.webstack.cc/">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="http://webstack.cc/assets/images/webstack_banner_cn.png">
+    <meta property="og:site_name" content="">
+    <!-- / Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="http://www.webstack.cc/assets/images/webstack_banner_cn.png">
+</head>
+
+<body class="page-body boxed-container">
+    <nav class="navbar horizontal-menu navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="navbar-brand">
+                <a href="index.html" class="logo">
+                    <p style="font-size:20px;color:gray;"><strong>返回主页</strong></p>
+                </a>
+            </div>
+            <div class="navbar-mobile-clear"></div>
+            <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+        </div>
+    </nav>
+    <div class="page-container">
+        <!-- add class "sidebar-collapsed" to close sidebar by default, "chat-visible" to make chat appear always -->
+        <div class="main-content" style="">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <!-- 关于网站 -->
+                        <h4 class="text-gray">关于网站</h4>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <blockquote>
+                                        <p>有一段时间我们发现网上存在着许多非常有趣的网站，所以我们想把它们收集起来，让更多的人也能感受到它的神奇。当然，因为我们看过太多神奇的网站了，早已经麻木。如果你觉得某个网站很无聊，可以到“交流论坛”联系站长。我们深思熟虑后会删除!</p>
+                                        </br>
+                                        <p>为了保证网站永久运行，也为了让更多人参与进来。我们至少每隔3天就会更新一次，时间定在凌晨00:00点。期间可能会出现不能访问的情况，给你带来不便，先提前抱歉。</p>
+                                        <p>如果你认为侵犯了你的权益，联系“交流论坛”站长或加QQ群交流，一群：<strong>787894989</strong> 我们审核之后，立即关闭有关网站的访问。</p>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <!-- 关于站长 -->
+                            <h4 class="text-gray">关于站长</h4>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.viggoz.com/">
+                                        <div class="xe-comment-entry">
+                                            <a class="xe-user-img">
+                                                <img src="../assets/images/logos/viggoz.png" class="img-circle" width="40">
+                                            </a>
+                                            <div class="xe-comment">
+                                                <a href="#" class="xe-user-name overflowClip_1">
+                                                    <strong>阿东哥</strong>
+                                                </a>
+                                                <p class="overflowClip_2"> 神奇网站在哪里-Where is the magic site!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <br />
+                                            <blockquote>
+                                                <p>
+                                                    如果你觉得这个网站很有群，请把它<a href="JavaScript:;"> 分享</a>给其他人。如果你有更好的想法，可以通过个人网站<a href="JavaScript:;"><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span></a>中的联系方式找到我，欢迎与我交流分享。
+                                                </p>
+                                            </blockquote>
+                                        </div>
+                                    </div>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main Footer -->
+            <footer class="main-footer sticky footer-type-1 fixed">
+                <div class="footer-inner">
+                    <div class="footer-text">
+                        &copy; 2023 - 现在
+                        <a href="../cn/about.html"><strong>神奇网站在哪里</strong></a> design by <a href="http://viggoz.com" target="_blank"><strong>ADongGe</strong></a>
+                    </div>
+                    <div class="go-up">
+                        <a href="#" rel="go-top">
+                            <i class="fa-angle-up"></i>
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <!-- Bottom Scripts -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/TweenMax.min.js"></script>
+    <script src="assets/js/resizeable.js"></script>
+    <script src="assets/js/joinable.js"></script>
+    <script src="assets/js/xenon-api.js"></script>
+    <script src="assets/js/xenon-toggles.js"></script>
+    <!-- JavaScripts initializations and stuff -->
+    <script src="assets/js/xenon-custom.js"></script>
+    <textarea tabindex="-1" style="position: absolute; top: -999px; left: 0px; right: auto; bottom: auto; border: 0px; padding: 0px; box-sizing: content-box; word-wrap: break-word; overflow: hidden; transition: none; height: 0px !important; min-height: 0px !important; font-family: Arimo, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 400; font-style: normal; letter-spacing: 0px; text-transform: none; word-spacing: 0px; text-indent: 0px; line-height: 18.5714px; width: 53px;" class="autosizejs" id="autosizejs"></textarea>
+</body>
+
+</html>
